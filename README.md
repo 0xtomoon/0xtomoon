@@ -4,12 +4,11 @@
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/master/logo.svg?sanitize=true" width="60" height="60" />        
+<img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/c23f8258dcdc08edb7f850efbf12c67e7052e7de/logo.svg?token=AOB5VYSIUUYDVQITDKSOJFDB57YJC" width="60" height="60" />        
 <h3>Welcome </h3>
 
 <div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vaccode365.vaccode365)
 </div>
 
 <br>
