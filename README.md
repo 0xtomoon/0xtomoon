@@ -1,91 +1,81 @@
 
+
+<h1 align='center'>
+  Hi 👋, I am Yano Sho.
+</h1>
+
+<p align='center'>
+  <b>Blockchain Architect | Solidity Smart Contract Developer</b>
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/yano-sho-9bb001214">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/mrcontract">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+<img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/c23f8258dcdc08edb7f850efbf12c67e7052e7de/logo.svg?token=AOB5VYSIUUYDVQITDKSOJFDB57YJC" width="60" height="60" />
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0xtomoon&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:shoyano.soft@gmail.com'>shoyano.soft@gmail.com</a>
+</p>
+
+## Skills
+
 <div align="center">
-<br>
-<br>
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/c23f8258dcdc08edb7f850efbf12c67e7052e7de/logo.svg?token=AOB5VYSIUUYDVQITDKSOJFDB57YJC" width="60" height="60" />        
-<h3>Welcome </h3>
-
-<div>
-
+  <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+    <img align="left" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+    <img align="left" src="https://img.shields.io/badge/-Haskell-yellow?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Plutus-blue?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Smart%20Contracts-green?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  </div>
+  <br>
+  <br>
+  <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/-Cardano-blue?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Solana-%237E7FC8?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Polygon-blueviolet?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
+  <br>
+  <br>
+  <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </div>
+  <br>
+  <br>
+  <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/-DeFi-blue?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-NFT-green?style=for-the-badge" />
+  </div>
 </div>
-
-<br>
-
-<table>
-<thead>
-<td>
-<b>Backend skills</b>
-</td>
-<td>
-<b>Frontend Skills</b>
-</td>
-<td>
-<b>Database</b>
-</td>
-</thead>
-<tr>
-<td>
-<br>
-
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjX5KbX9VBTfUyBj0io1gkXkBFXQe2fKKYXw&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS1jsAm8BRk5jZmU5VFEtCTBZQ7II-h2g9Kg&usqp=CAU"></code>
-<br>
-
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3BJCUaAko_zjufh6UIDOEdBQZ8qgg0fIWwA&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwA5YjmHbQtzMqCC5iEiugMjzUfkysMLOxTw&usqp=CAU"></code>
-<br>
-
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST7bzbXFWfirHTw1hVykMb5d3zpI8W3HPt9A&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwMFcJQEyPckfMxkdHYLhPA5oEWnZNCkH44Q&usqp=CAU"></code>
-<br>
-<code><img height="35" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></code>
-<code><img height="35" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></code>
-<br>
-</td>
-<td>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<br>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<br>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<br>
-</td>
-<td>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
-<br>
-</td>
-</tr>
-
-</table>
-</div>
-
-<div>
-
-</div>
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
