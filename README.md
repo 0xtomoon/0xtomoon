@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <b>Blockchain Architect | Solidity Smart Contract Developer</b>
+  <b>Blockchain Architect | Backend Developer | Smart Contract Engineer</b>
 </p>
 
 <p align='center'>
@@ -30,8 +30,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0xtomoon&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
-  Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
 
 <p align='center'>
