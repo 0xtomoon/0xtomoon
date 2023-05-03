@@ -23,10 +23,6 @@
 <img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/c23f8258dcdc08edb7f850efbf12c67e7052e7de/logo.svg?token=AOB5VYSIUUYDVQITDKSOJFDB57YJC" width="60" height="60" />
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0xtomoon&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
 </p>
 
 <p align='center'>
