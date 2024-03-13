@@ -1,30 +1,28 @@
 
 
-<h1 align='center'>
-  Hi 👋, I am Yano Sho.
+<h1>
+  Hi 👋, I am Yano Sho 
+  <img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/c23f8258dcdc08edb7f850efbf12c67e7052e7de/logo.svg?token=AOB5VYSIUUYDVQITDKSOJFDB57YJC" width="60" height="60" />
 </h1>
 
-<p align='center'>
+<p>
   <b>Blockchain Architect | Backend Developer | Smart Contract Engineer</b>
 </p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/yano-sho-9bb001214">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
 </p>
 
-<p align='center'>
-<img src="https://raw.githubusercontent.com/0xtomoon/0xtomoon/c23f8258dcdc08edb7f850efbf12c67e7052e7de/logo.svg?token=AOB5VYSIUUYDVQITDKSOJFDB57YJC" width="60" height="60" />
+<p>
+  📫 How to reach me: 
+</p>
+<div>
+    Telegram: <a href='https://t.me/mrcontract'>@mrcontract</a> <br/>
+    Email: <a href='mailto:shoyano.soft@gmail.com'>shoyano.soft@gmail.com</a> <br/>
+    Discord: @mr.contract <br/>
+</div>
+<p>
 </p>
 
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:shoyano.soft@gmail.com'>shoyano.soft@gmail.com</a>
-</p>
+![0xtomoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xtomoon&theme=dark&show_icons=true)
 
 ## Skills
 
